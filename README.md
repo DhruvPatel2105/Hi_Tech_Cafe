@@ -84,13 +84,13 @@ https://github.com/DhruvPatel2105/employeemanager/assets/58779025/0a54ef1c-68b7-
 
 Mobile view
 
-<img width="209" alt="mobile XR" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe_Oops/assets/58779025/fa1ae0ff-5728-431e-af7b-edbec179fe85">
-<img width="210" alt="Mobile XR navbar" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe_Oops/assets/58779025/6f88d2c9-9a4a-432e-bb4d-b947da1d6f21">
+<img width="209" alt="mobile XR" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe/assets/58779025/f187306d-fa84-4cc3-ac52-b8afd1e2a6e9">
+<img width="210" alt="Mobile XR navbar" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe/assets/58779025/878bde70-af99-4c0a-81fc-adc7586ae340">
 
 
 Table view
 
-<img width="405" alt="ipad" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe_Oops/assets/58779025/a6bf1e58-2bfe-40ce-9cce-41c9078b80fd">
+<img width="405" alt="ipad" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe/assets/58779025/c010c8cf-8f28-42f2-b458-9db0c09713fa">
 
 
 
@@ -104,11 +104,11 @@ Table view
 
 **Database Structure**
 
-<img width="1042" alt="DB ER-Diagram" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe_Oops/assets/58779025/cda89484-6e4b-47be-941e-23f0907dadad">
+<img width="1042" alt="DB ER-Diagram" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe/assets/58779025/1c17d79b-9b2f-42ca-b99d-0b2f4deba198">
 
 
 **Jira Software**
    - For the project management and issue tracking I used the Jira Software. 
 
-<img width="1470" alt="Jira Software" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe_Oops/assets/58779025/7870af28-a175-4b58-9088-a5cd2ba77258">
+<img width="1470" alt="Jira Software" src="https://github.com/DhruvPatel2105/Hi_Tech_Cafe/assets/58779025/fd86229f-dd2d-4319-95c1-747c0a47f349">
 
